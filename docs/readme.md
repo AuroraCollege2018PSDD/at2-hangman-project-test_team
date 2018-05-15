@@ -7,4 +7,4 @@
 * Data Flow Diagram
 * Algorithm Design - flow charts or pseudocode
 * Data dictionary
-* User Manual - keep this breif.
+* User Manual - keep this brief.
